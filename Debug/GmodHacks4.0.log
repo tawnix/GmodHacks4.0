@@ -1,0 +1,7 @@
+﻿  MathCalculations.cpp
+c:\users\kamer\source\repos\gmodhacks4.0\gmodhacks4.0\mathcalculations.cpp(7): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kamer\source\repos\gmodhacks4.0\gmodhacks4.0\mathcalculations.cpp(8): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kamer\source\repos\gmodhacks4.0\gmodhacks4.0\mathcalculations.cpp(9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kamer\source\repos\gmodhacks4.0\gmodhacks4.0\mathcalculations.cpp(27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kamer\source\repos\gmodhacks4.0\gmodhacks4.0\mathcalculations.cpp(28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  GmodHacks4.0.vcxproj -> C:\Users\kamer\source\repos\GmodHacks4.0\Debug\GmodHacks4.0.exe
